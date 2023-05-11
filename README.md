@@ -1,4 +1,4 @@
-# Abex-Infr CDK
+# Abex-Infra CDK
 This is the CDK code for the infra setup of Abex Platform
 
 ## Useful commands
